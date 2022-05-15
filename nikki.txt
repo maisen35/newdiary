@@ -41,3 +41,4 @@ hoo
 fire
 huu
 rol
+iruma
