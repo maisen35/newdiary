@@ -42,3 +42,4 @@ fire
 huu
 rol
 iruma
+koru
