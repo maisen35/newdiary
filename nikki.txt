@@ -47,3 +47,4 @@ hoot
 wild
 ni
 fire
+clime
