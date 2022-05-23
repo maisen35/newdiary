@@ -50,3 +50,4 @@ fire
 clime
 ficser
 mongon
+comunication
