@@ -51,3 +51,4 @@ clime
 ficser
 mongon
 comunication
+memoly
