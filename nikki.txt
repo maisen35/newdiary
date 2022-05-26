@@ -53,3 +53,4 @@ mongon
 comunication
 memoly
 huka
+bild
