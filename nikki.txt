@@ -55,3 +55,4 @@ memoly
 huka
 bild
 special
+spe
