@@ -56,3 +56,4 @@ huka
 bild
 special
 spe
+stash
