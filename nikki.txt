@@ -57,3 +57,4 @@ bild
 special
 spe
 stash
+tama
