@@ -65,3 +65,4 @@ speed
 pmon
 ukarita
 yuyuto
+loid
