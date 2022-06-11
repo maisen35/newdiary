@@ -67,3 +67,4 @@ ukarita
 yuyuto
 loid
 lock
+gal
