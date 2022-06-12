@@ -68,3 +68,4 @@ yuyuto
 loid
 lock
 gal
+loni
