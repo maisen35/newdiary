@@ -69,3 +69,4 @@ loid
 lock
 gal
 loni
+oin
