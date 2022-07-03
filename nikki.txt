@@ -89,3 +89,4 @@ hoj
 aso
 kasuga
 in
+keisanmisu
