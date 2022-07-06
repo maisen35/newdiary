@@ -92,3 +92,4 @@ in
 keisanmisu
 atame
 hiu
+nihongo
