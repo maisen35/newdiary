@@ -93,3 +93,4 @@ keisanmisu
 atame
 hiu
 nihongo
+ad
