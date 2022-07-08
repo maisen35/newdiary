@@ -94,3 +94,4 @@ atame
 hiu
 nihongo
 ad
+ariga
