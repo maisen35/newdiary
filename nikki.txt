@@ -95,3 +95,4 @@ hiu
 nihongo
 ad
 ariga
+hu
