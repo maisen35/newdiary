@@ -98,3 +98,4 @@ ariga
 hu
 [add]
 jera
+uiju
