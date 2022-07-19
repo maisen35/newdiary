@@ -105,3 +105,4 @@ call
 tommy
 tell
 sachio
+telesa
