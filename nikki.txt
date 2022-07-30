@@ -116,3 +116,4 @@ kyaroto
 duel
 sino
 ponde
+talk
