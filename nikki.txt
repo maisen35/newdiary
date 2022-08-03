@@ -120,3 +120,4 @@ talk
 cup
 rara
 kasu
+blue
