@@ -126,3 +126,4 @@ you
 koro
 seki
 gi
+do
