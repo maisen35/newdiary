@@ -130,3 +130,4 @@ do
 uiu
 ko
 odd
+kuro
