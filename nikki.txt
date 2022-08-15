@@ -131,3 +131,4 @@ uiu
 ko
 odd
 kuro
+addmin
