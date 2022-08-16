@@ -132,3 +132,4 @@ ko
 odd
 kuro
 addmin
+suzune
