@@ -133,3 +133,4 @@ odd
 kuro
 addmin
 suzune
+marry
