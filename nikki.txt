@@ -134,3 +134,4 @@ kuro
 addmin
 suzune
 marry
+tennis
