@@ -138,3 +138,4 @@ tennis
 kiku
 atobe
 mon
+abura
