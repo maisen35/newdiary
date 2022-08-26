@@ -142,3 +142,4 @@ abura
 slj
 doul
 mas
+stricke
