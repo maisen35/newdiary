@@ -145,3 +145,4 @@ mas
 stricke
 gen
 mizu
+goto
