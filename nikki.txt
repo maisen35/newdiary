@@ -147,3 +147,4 @@ gen
 mizu
 goto
 syadou
+kai
