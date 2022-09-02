@@ -148,3 +148,4 @@ mizu
 goto
 syadou
 kai
+husigu
