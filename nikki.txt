@@ -172,3 +172,4 @@ tojinbo
 iine
 nemui
 seikin
+bound
