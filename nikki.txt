@@ -183,3 +183,4 @@ mada
 dan
 tu
 yakin
+[add]
