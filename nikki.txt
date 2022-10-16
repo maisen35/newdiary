@@ -192,3 +192,4 @@ mac
 dainamaito
 tyenso
 ui
+rinto
