@@ -196,3 +196,4 @@ rinto
 psa
 rif
 liong
+tukki
