@@ -207,3 +207,4 @@ kimi
 [add]
 manda
 yukkuri
+syoniti
