@@ -215,3 +215,4 @@ donbura
 satomi
 sukopr
 star
+ko
