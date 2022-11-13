@@ -218,3 +218,4 @@ star
 ko
 pura
 yabe 
+koto 
