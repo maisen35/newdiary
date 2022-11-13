@@ -217,3 +217,4 @@ sukopr
 star
 ko
 pura
+yabe 
