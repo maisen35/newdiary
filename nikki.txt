@@ -219,3 +219,4 @@ ko
 pura
 yabe 
 koto 
+kawasima
