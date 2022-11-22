@@ -227,3 +227,4 @@ my
 gird
 omom
 dorel
+takta
