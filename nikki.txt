@@ -235,3 +235,4 @@ ochita
 denpa
 eko
 doit 
+nand
