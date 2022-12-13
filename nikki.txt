@@ -238,3 +238,4 @@ doit
 nand
 mae
 seki
+yuyu
